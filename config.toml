@@ -4,7 +4,7 @@ title = "ImGui Manual"
 theme = "hugograyscale"
 
 googleAnalytics = "UA-130907315-2"
-disableKinds = ["taxonomy", "taxonomyTerm"]
+disableKinds = ["taxonomy"]
 
 [Author]
     name = "Pascal Thomet"
