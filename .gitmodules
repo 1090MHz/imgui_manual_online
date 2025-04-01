@@ -3,4 +3,4 @@
 	url = https://github.com/budparr/gohugo-theme-ananke.git
 [submodule "themes/hugograyscale"]
 	path = themes/hugograyscale
-	url = https://github.com/runningstream/hugograyscale.git
+	url = https://github.com/1090MHz/hugograyscale
